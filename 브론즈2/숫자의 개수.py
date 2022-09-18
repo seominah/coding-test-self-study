@@ -1,7 +1,7 @@
 import sys
 input = sys.stdin.readline
 
-# a, b, c = map(int, input().r())
+# a, b, c = map(int, input().rstrip())
 a = int(input().rstrip())
 b = int(input().rstrip())
 c = int(input().rstrip())
